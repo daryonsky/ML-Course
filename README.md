@@ -2,11 +2,15 @@
 
 This repository contains personal notes and code exercises from the **Foundations of Machine Learning** course (A.Y. 2024/25), taught by **Prof. Tommaso Di Noia** as part of the **Master’s program in Artificial Intelligence and Data Science** at **PoliBa – Polytechnic University of Bari**.
 
+<p align="center">
+  <img src="imgs/cover.jpg" alt="Notes Cover" width="250"/>
+</p>
+
 ---
 
 ## 🚀 Purpose of This Repository
 
-This repository was created with the intention of helping future students gain a deeper understanding of Machine Learning. However, it is not limited to students alone—anyone interested in the subject can benefit from it!
+This repository was created with the intention of helping future students gain a deeper understanding of Machine Learning. However, it is not limited to students alone — anyone interested in the subject can benefit from it!
 
 ### 📖 Contents of the Repository  
 - **Code Exercises:** Practical exercises implemented as Jupyter Notebooks (with scracth libraries implemented as Python scripts). 
@@ -58,4 +62,4 @@ Once you've completed the steps, you'll be all set to start exploring the other 
 
 ## 🌟 Contribute or Share
 
-If you find this repository helpful, feel free to **star** it or share it with others! Contributions and suggestions are always welcome!
+If you find this repository helpful, feel free to give it a ⭐ or share it with others! Contributions and suggestions are always welcome!
